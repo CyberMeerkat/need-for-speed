@@ -1,6 +1,3 @@
-using System;
-using System.Linq;
-
 class RemoteControlCar
 {
     private int _batteryRemaining = 100;
